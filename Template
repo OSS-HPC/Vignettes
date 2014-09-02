@@ -1,3 +1,9 @@
-TODO for Somebody
+Here is what should be addressed in a vignette:
 
-<What a vignette should look like here>
+- What does this software do?
+- What is the license?
+- BRIEF history of the project, including funding sources?
+- Are there commercial derivatives?  What form do they take?  Are companies making money off of derivative works?
+- Are there commercial packages that depend on or otherwise make use of this?
+- Are there companies using this package to develop new technology of any kind?  Please give specific examples if possible.
+- Are there closed-source competitors or alternatives to this?  Please compare and contrast this OSS to these on all relevant axes.
