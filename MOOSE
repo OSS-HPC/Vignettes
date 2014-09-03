@@ -1,0 +1,52 @@
+Vignette Author: John Peterson (jwpeterson@gmail.com)
+Relationship to project: Developer and user 2011-present
+
+Project home page: http://mooseframework.org
+
+- What does this software do?
+
+Winner of a 2014 R&D100 award, the Multiphysics Object-Oriented
+Simulation Environment (MOOSE) is a finite element, multiphysics
+simulation framework primarily developed by Idaho National
+Laboratory. It provides a high-level interface to sophisticated
+nonlinear solvers, and presents a straightforward API that aligns with
+real-world science and engineering applications.
+
+- What is the license?
+
+LGPL version 2.1
+
+- BRIEF history of the project, including funding sources?
+
+Began at Idaho National Laboratory in 2008 with Laboratory Directed
+Research and Development (LDRD) funding.  Instrumental in attracting
+DOE programmatic funding (NEAMS, CASL) to the INL.
+
+- Are there commercial derivatives?  What form do they take?  Are
+  companies making money off of derivative works?
+
+No known commercial derivatives.
+
+- Are there commercial packages that depend on or otherwise make use of this?
+
+Not yet.
+
+- Are there companies using this package to develop new technology of
+  any kind?  Please give specific examples if possible.
+
+Australia's Commonwealth Scientific and Industrial Research
+Organisation (CSIRO) is actively developing MOOSE-based applications
+in several areas, including mining, groundwater, and basic
+geomechanics simulations.  Numerous other partners within the DOE
+complex and Universities are also using MOOSE.
+
+- Are there closed-source competitors or alternatives to this?  Please
+  compare and contrast this OSS to these on all relevant axes.
+
+Comsol, Ansys, Abaqus, and Fluent are established commercial software
+packages that have various multiphysics simulation capabilities.
+These codes provide "pre-defined" capabilities for the most part,
+whereas MOOSE is based on the idea that the user will write custom
+software to support his particular application, if it does not already
+exist.
+

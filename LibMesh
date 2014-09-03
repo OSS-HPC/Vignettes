@@ -1,0 +1,56 @@
+Vignette Author: John Peterson (jwpeterson@gmail.com)
+Relationship to project: Developer and user 2002-present
+
+Project home page: https://github.com/libMesh/libmesh, libmesh.sf.net
+
+- What does this software do?
+
+The LibMesh library provides a framework for the numerical simulation
+of partial differential equations using arbitrary unstructured
+discretizations on serial and parallel platforms. A major goal of the
+library is to provide support for adaptive mesh refinement (AMR)
+computations in parallel while allowing a research scientist to focus
+on the physics they are modeling.
+
+- What is the license?
+
+LGPL version 2.1
+
+- BRIEF history of the project, including funding sources?
+
+Began at the University of Texas at Austin by Benjamin Kirk and a few
+of Professor Graham Carey's graduate students.  Has never been
+directly funded, but a number of researchers at Idaho National
+Laboratory, the University of Texas, and NASA Johnson Space Center are
+funded to work on projects closely related to LibMesh.  The PECOS
+center at the University of Texas was funded for five years on an NNSA
+Predictive Science Academic Alliance Program project based around
+LibMesh.
+
+- Are there commercial derivatives?  What form do they take?  Are
+  companies making money off of derivative works?
+
+No known commercial derivatives, but commerical companies are using
+LibMesh, see below.
+
+- Are there commercial packages that depend on or otherwise make use of this?
+
+Akselos (akselos.com) makes a commercial software product which is
+based on the reduced basis technology available in LibMesh.
+
+- Are there companies using this package to develop new technology of
+  any kind?  Please give specific examples if possible.
+
+Yes, see comment above about Akselos.  They are a start-up company
+based in Boston, MA and currently target customers in the mining, oil
+& gas, and power systems industries with simulation capabilities
+based on what they call the "Reduced Basis Component Technology."
+
+- Are there closed-source competitors or alternatives to this?  Please
+  compare and contrast this OSS to these on all relevant axes.
+
+Not really.  The capabilities LibMesh provides are somewhat similar to
+Comsol, but the target audiences are fairly different (developer/user
+vs. GUI-based end user).  There are many high-quality open source
+finite element libraries available, however, including deal.II,
+FEniCS, GetFEM++, and others.
