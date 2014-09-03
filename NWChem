@@ -1,1 +1,42 @@
-TODO for Jeff Hammond
+Vignette Author: Jeff Hammond (jeff_hammond@acm.org)
+Relationship to project: Developer and user 2006-present
+
+Project home page: http://www.nwchem-sw.org/index.php/Main_Page
+
+- What does this software do?
+
+NWChem is a computational chemistry suite that performs a variety of simulations, 
+including atomic orbital (local basis set) quantum chemistry methods,
+plane-wave density-functional theory, mixed quantum-classical (QM/MM) methods, etc.
+
+- What is the license?
+
+ECL 2.0 (http://opensource.org/licenses/ECL-2.0), which is a derivative of the Apache 2.0 license.
+
+- BRIEF history of the project, including funding sources?
+
+Began at PNNL as part of the EMSL construction project in the mid 1990s.
+Funded heavily by DOE since its inception.
+
+- Are there commercial derivatives?  What form do they take?  Are companies making money off of derivative works?
+
+No known commercial derivatives.
+
+- Are there commercial packages that depend on or otherwise make use of this?
+
+Some of the commercial molecular modeling front-ends have NWChem back-ends.  Need details...
+
+- Are there companies using this package to develop new technology of any kind?  Please give specific examples if possible.
+
+At least one major semiconductor company uses NWChem internally.  Details pending appropriate approval.
+
+- Are there closed-source competitors or alternatives to this?  Please compare and contrast this OSS to these on all relevant axes.
+
+There are numerous closed-source commercial competitors, the most important of which is Gaussian.
+
+NWChem is superior to most competitive codes, irrespective of their license or cost, with respect
+to parallel scalability, for which NWChem is often the best among production quantum chemistry codes.
+
+The NWChem development team is composed primarily of DOE laboratory staff and is able to sustain
+a long-term development and support culture not found in academic environments, which has some appeal to 
+commercial users.
